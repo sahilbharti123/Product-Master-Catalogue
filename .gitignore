@@ -1,0 +1,7 @@
+*.py[cod]
+.venv/
+__pycache__/
+inputs/bd_technologies.csv
+output/inputs/bd_technologies.csv
+inputs/bd_technologies.csv
+inputs/bd_technologies.csv
